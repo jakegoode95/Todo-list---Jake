@@ -1,5 +1,5 @@
 # Todo-list---Jake
-First project - Todo list; 
+First project - Jake's Todo list
 
 followed a walkthrough on Youtube, I might add more functionality to it as I get more proficient at using Javascript.
 
