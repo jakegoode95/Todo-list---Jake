@@ -1,4 +1,4 @@
-# Todo-list---Jake
+# Todo-list
 
 **Version 1.0.0**
 
