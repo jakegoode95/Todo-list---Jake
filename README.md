@@ -1,7 +1,11 @@
 # Todo-list---Jake
-First project - Jake's Todo list
+**Version 1.0.0**
 
-Followed a walkthrough on Youtube, I might add more functionality to it as I get more proficient at using Javascript.
+Code and documents for the creation of a Todo list.
 
-First attempt at CSS, was pretty intuitive and fun to use, really makes a difference to the overall look and feel of the Todo list.
+the main motivator for this project was to give me confidence in my ability to write code and follow instructions rather than recreate the wheel of what a 'todo list' is and go through how another programmer would go about creating this from scratch. In order to complete this project I used HTML, Javascript and CSS.
+
+## license & copyright
+
+Ⓒ Jake P Goode, Ivan on Tech Student
 
